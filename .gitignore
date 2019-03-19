@@ -28,3 +28,6 @@ project.lock.json
 .vs
 .build/
 .testPublish/
+/.vs
+/aws-dynamodb-net-core-demo/*.user
+/aws-dynamodb-net-core-demo/obj
